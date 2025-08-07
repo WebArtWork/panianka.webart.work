@@ -1,13 +1,13 @@
 {
-	"layout": "/layouts/full.html",
+	"layout": "/layouts/topbar.html",
 	"layouts": ["default", "full", "navigation"],
 	"sections": ["home-one"],
-	"title": "Title which will fit on all pages",
-	"description": "Description which will fit on all pages",
+	"title": "Бутик весільних суконь,тканин і фурнітури | Panianka",
+	"description": "Ласкаво просимо до Panianka — простору, де народжується краса для найважливіших моментів.Бутик весільних суконь, тканин і фурнітури в Кам’янці-Подільському, що поєднує елегантність, якість і натхнення. У колекціях — вишукані сукні, розкішне мереживо, шовки, атласи та безліч декоративних деталей для створення унікального образу. Panianka — це місце для наречених, дизайнерів і майстрів, які цінують стиль, індивідуальність і досконалість у кожному шві. Відкрийте для себе асортимент, що дарує натхнення і допомагає створити справжнє вбрання мрії.",
 	"keywords": "waw, web art work, server render, template",
 	"prefix": "/wjst-default",
 	"favicon": "img/favicon.ico",
-	"image": "https://webartwork.github.io/wjst-default/img/avatar.png",
+	"image": "https://github.com/WebArtWork/panianka.webart.work/blob/master/img/seo.png",
 	"author": "Honchar Denys",
 	"scss": "scss/index.scss",
 
