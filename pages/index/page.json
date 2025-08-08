@@ -43,26 +43,26 @@
 			"subtitle": "Для детального ознайомлення з асортиментом — перегляньте Instagram",
 			"socials": [
 				{
-					"img": "img/spider.svg",
+					"img": "instagram.png",
 					"href": "https://www.instagram.com/panianka_kp/"
 				}
 			]
 		},
 		{
 			"src": "/sections/get-in-touch.html",
-			"map": "img/spider.svg",
+			"map": "map.png",
 			"iloc": "img/spider.svg",
 			"iphone": "img/spider.svg",
-			"title": "Get in touch block",
-			"subtitle": "We are here",
+			"title": "Контактна інформація для зручного зв’язку й відвідування:",
+			"subtitle": "Ми розташовані за адресою:",
 			"socials": [
 				{
-					"img": "img/spider.svg",
-					"href": "https://www.instagram.com/potiercake/"
+					"img": "instagram.png",
+					"href": "https://www.instagram.com/panianka_kp"
 				}
 			],
-			"phone": "+380971862487",
-			"address": "Drai-Khmary St, 50, Kam'yanets'-Podil's'kyi, Khmelnytskyi Oblast, 32313"
+			"phone": "+38 097 834 3670",
+			"address": "м. Кам‘янець-Подільський, пр. Грушевського, 31"
 		}
 	]
 }
