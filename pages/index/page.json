@@ -2,7 +2,7 @@
 	"sections": [
 		{
 			"src": "/sections/content/intro/intro.html",
-			"img": "barelogo.png",
+			"img": "img/barelogo.png",
 			"title": "Panianka",
 			"description": "Для тих, хто створює казку — або носить її"
 		},
@@ -10,31 +10,31 @@
 			"src": "/sections/content/hero/hero.html",
 			"title": "Бутик весільних суконь, тканин і фурнітури — простір натхнення та стилю",
 			"description": "Вишукані весільні сукні, які підкреслюють найважливіші моменти життя. Колекції тканин, мережива, декоративної фурнітури — для створення унікального одягу, аксесуарів та авторських проєктів. Ідеальне місце для наречених, дизайнерів, майстрів пошиття та всіх, хто працює з естетикою і стилем.",
-			"img": "block2img.png",
+			"img": "img/block2img.png",
 			"imgs": []
 		},
 		{
 			"src": "/sections/horizontal-visual.html",
-			"img": "img/spider.svg",
+			"img": "img/barelogo.png",
 			"title": "Наші тканини",
 			"imgs": [
-				"fabric1.png",
-				"fabric2.png",
-				"fabric3.png",
-				"fabric4.png",
-				"fabric5.png",
+				"img/fabric1.png",
+				"img/fabric2.png",
+				"img/fabric3.png",
+				"img/fabric4.png",
+				"img/fabric5.png",
 				"",
 				""
 			]
 		},
 		{
 			"src": "/sections/vertical-visual.html",
-			"img": "img/spider.svg",
+			"img": "img/barelogo.png",
 			"title": "Наші сукні",
 			"imgs": [
-				"wedDress1.png",
-				"wedDress2.png",
-				"wedDress3.png",
+				"img/wedDress1.png",
+				"img/wedDress2.png",
+				"img/wedDress3.png",
 				"",
 				"",
 				"",
@@ -43,21 +43,21 @@
 			"subtitle": "Для детального ознайомлення з асортиментом — перегляньте Instagram",
 			"socials": [
 				{
-					"img": "instagram.png",
+					"img": "img/instagram.png",
 					"href": "https://www.instagram.com/panianka_kp/"
 				}
 			]
 		},
 		{
 			"src": "/sections/get-in-touch.html",
-			"map": "map.png",
-			"iloc": "location.png",
-			"iphone": "telephone.png",
+			"map": "img/map.png",
+			"iloc": "img/location.png",
+			"iphone": "img/telephone.png",
 			"title": "Контактна інформація для зручного зв’язку й відвідування:",
 			"subtitle": "Ми розташовані за адресою:",
 			"socials": [
 				{
-					"img": "instagram.png",
+					"img": "img/instagram.png",
 					"href": "https://www.instagram.com/panianka_kp"
 				}
 			],
