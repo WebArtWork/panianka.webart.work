@@ -22,9 +22,7 @@
 				"img/fabric2.png",
 				"img/fabric3.png",
 				"img/fabric4.png",
-				"img/fabric5.png",
-				"",
-				""
+				"img/fabric5.png"
 			]
 		},
 		{
@@ -34,11 +32,7 @@
 			"imgs": [
 				"img/wedDress1.png",
 				"img/wedDress2.png",
-				"img/wedDress3.png",
-				"",
-				"",
-				"",
-				""
+				"img/wedDress3.png"
 			],
 			"subtitle": "Для детального ознайомлення з асортиментом — перегляньте Instagram",
 			"socials": [
@@ -58,7 +52,9 @@
 			"socials": [
 				{
 					"img": "img/instagram.png",
-					"href": "https://www.instagram.com/panianka_kp"
+					"href": "https://www.instagram.com/panianka_kp",
+					"img": "img/tiktok.png",
+					"href": "https://www.tiktok.com/@panianka_kp?_t=ZM-8yhlTlwSwe0&_r=1"
 				}
 			],
 			"phone": "+38 097 834 3670",
