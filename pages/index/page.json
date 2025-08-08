@@ -2,67 +2,63 @@
 	"sections": [
 		{
 			"src": "/sections/content/intro/intro.html",
-			"img": "img/spider.svg",
-			"title": "Get Started",
-			"description": "This is an introduction to the page"
+			"img": "img/barelogo.png",
+			"title": "Panianka",
+			"description": "Для тих, хто створює казку — або носить її"
 		},
 		{
 			"src": "/sections/content/hero/hero.html",
-			"title": "Welcome to Our Platform",
-			"description": "We help you build better websites",
-			"img": "img/spider.svg",
-			"imgs": ["img/spider.svg", "img/spider.svg"]
+			"title": "Бутик весільних суконь, тканин і фурнітури — простір натхнення та стилю",
+			"description": "Вишукані весільні сукні, які підкреслюють найважливіші моменти життя. Колекції тканин, мережива, декоративної фурнітури — для створення унікального одягу, аксесуарів та авторських проєктів. Ідеальне місце для наречених, дизайнерів, майстрів пошиття та всіх, хто працює з естетикою і стилем.",
+			"img": "img/block2img.png",
+			"imgs": []
 		},
 		{
 			"src": "/sections/horizontal-visual.html",
-			"img": "img/spider.svg",
-			"title": "Main title for gallery",
+			"img": "img/barelogo.png",
+			"title": "Наші тканини",
 			"imgs": [
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg"
+				"img/fabric1.png",
+				"img/fabric2.png",
+				"img/fabric3.png",
+				"img/fabric4.png",
+				"img/fabric5.png"
 			]
 		},
 		{
 			"src": "/sections/vertical-visual.html",
-			"img": "img/spider.svg",
-			"title": "Title for visual block",
+			"img": "img/barelogo.png",
+			"title": "Наші сукні",
 			"imgs": [
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg"
+				"img/wedDress1.png",
+				"img/wedDress2.png",
+				"img/wedDress3.png"
 			],
-			"subtitle": "text for instagram link",
+			"subtitle": "Для детального ознайомлення з асортиментом — перегляньте Instagram",
 			"socials": [
 				{
-					"img": "img/spider.svg",
-					"href": "https://www.instagram.com/potiercake/"
+					"img": "img/instagram.png",
+					"href": "https://www.instagram.com/panianka_kp/"
 				}
 			]
 		},
 		{
 			"src": "/sections/get-in-touch.html",
-			"map": "img/spider.svg",
-			"iloc": "img/spider.svg",
-			"iphone": "img/spider.svg",
-			"title": "Get in touch block",
-			"subtitle": "We are here",
+			"map": "img/map.png",
+			"iloc": "img/location.png",
+			"iphone": "img/telephone.png",
+			"title": "Контактна інформація для зручного зв’язку й відвідування:",
+			"subtitle": "Ми розташовані за адресою:",
 			"socials": [
 				{
-					"img": "img/spider.svg",
-					"href": "https://www.instagram.com/potiercake/"
+					"img": "img/instagram.png",
+					"href": "https://www.instagram.com/panianka_kp",
+					"img": "img/tiktok.png",
+					"href": "https://www.tiktok.com/@panianka_kp?_t=ZM-8yhlTlwSwe0&_r=1"
 				}
 			],
-			"phone": "+380971862487",
-			"address": "Drai-Khmary St, 50, Kam'yanets'-Podil's'kyi, Khmelnytskyi Oblast, 32313"
+			"phone": "+38 097 834 3670",
+			"address": "м. Кам‘янець-Подільський, пр. Грушевського, 31"
 		}
 	]
 }
