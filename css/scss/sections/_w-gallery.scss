@@ -10,7 +10,7 @@
 	&-wrapper {
 		display: flex;
 		flex-flow: row wrap;
-		background-color: var(--c-alert);
+		background-color: var(--c-block);
 		border-radius: 32px;
 		padding: 40px;
 		justify-content: center;
@@ -24,6 +24,7 @@
 	&__img {
 		img {
 			width: 100%;
+			border-radius: var(--b-radius);
 		}
 	}
 }

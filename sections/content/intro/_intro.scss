@@ -8,7 +8,7 @@
 	&__img {
 		max-width: 370px;
 		padding: calc(20px * var(--padding-scale)) 0
-			calc(30px * var(--padding-scale));
+			calc(0 * var(--padding-scale));
 		margin: 0 auto;
 		border-radius: var(--b-radius);
 		overflow: hidden;
@@ -19,18 +19,16 @@
 	}
 
 	&__title {
-		font-family: var(--ff-title);
-		font-size: 36px;
-		font-weight: 600;
+		font-family: var(--ff-brush);
+		font-size: 100px;
 		padding-top: calc(12px * var(--padding-scale));
-		text-transform: uppercase;
 		letter-spacing: var(--letter-spacing);
-		line-height: var(--line-height);
+		line-height: 1;
 		color: var(--c-text-primary);
 	}
 
 	&__description {
-		font-size: var(--font-size);
+		font-size: var(--font-sizeB);
 		line-height: var(--line-height);
 		letter-spacing: var(--letter-spacing);
 		color: var(--c-text-body-secondary);

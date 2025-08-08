@@ -1,5 +1,6 @@
 // ===== BASE STYLE =====
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
 html {
 	font-size: var(--fs);
 	height: 100%;
@@ -72,20 +73,18 @@ ul {
 	justify-content: space-between;
 	padding: var(--padding);
 	background: var(--c-primary);
-	border-bottom: 1px solid var(--c-secondary);
+	border-bottom: 4px solid var(--c-pink);
 	position: fixed;
 	width: 100%;
 	z-index: 12;
 	padding: 10px;
+	background: #fff4f4;
 	@media (max-width: 768px) {
 		background: var(--c-primary);
 		position: fixed;
 		width: 100%;
 		z-index: 999;
 		padding: 10px;
-		.header__logo {
-			width: 40px;
-		}
 	}
 	&__left,
 	&__right {
@@ -99,7 +98,7 @@ ul {
 		margin: 0 var(--margin);
 
 		@media (max-width: 768px) {
-			display: none;
+			display: block;
 		}
 
 		&--mobile {
@@ -129,13 +128,11 @@ ul {
 	}
 
 	&__logo {
-		width: 45px;
-		margin-right: var(--margin);
+		width: 100%;
 	}
 
 	&__title {
-		font-size: 1.5em;
-		margin-left: 10px;
+		display: none;
 	}
 
 	&__menu-icon {

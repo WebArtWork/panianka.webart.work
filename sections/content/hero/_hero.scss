@@ -34,7 +34,7 @@
 	}
 
 	&__imgs {
-		flex: 0 0 calc(300px * var(--padding-scale));
+		flex: 0 0 calc(450px * var(--padding-scale));
 		position: relative;
 
 		img {
@@ -97,5 +97,13 @@
 	}
 	.hero__description {
 		font-size: calc(var(--font-size) * 0.875);
+	}
+	.hero__text {
+		flex: 1 0;
+		padding-right: calc(0 * var(--padding-scale));
+	}
+	.hero__title {
+		font-family: var(--ff-title);
+		font-size: 25px;
 	}
 }
