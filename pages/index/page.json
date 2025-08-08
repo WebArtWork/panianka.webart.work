@@ -51,8 +51,8 @@
 		{
 			"src": "/sections/get-in-touch.html",
 			"map": "map.png",
-			"iloc": "img/spider.svg",
-			"iphone": "img/spider.svg",
+			"iloc": "location.png",
+			"iphone": "telephone.png",
 			"title": "Контактна інформація для зручного зв’язку й відвідування:",
 			"subtitle": "Ми розташовані за адресою:",
 			"socials": [
