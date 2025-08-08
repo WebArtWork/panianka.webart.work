@@ -96,13 +96,16 @@
 
 {% for section in sections %}
 <div id="sectionId{{{loop.index}}}" class="sectionId{{{loop.index}}}">
+	<hr class="hrs" style="padding: 50px; background: red" />
+	{{{ section.src }}}
 	<hr class="hrs" />
+
 	{% if section.sections.length %}
 	<div class="readme-section" style="display: none">
 		<h2>Readme</h2>
 		{% for section in section.sections %} {% include section.src %} {%
 		endfor %}
-		<hr />
+		<hr style="padding: 50px; background: red" />
 	</div>
 	{% endif %}
 	<div class="controllers" style="display: none">
