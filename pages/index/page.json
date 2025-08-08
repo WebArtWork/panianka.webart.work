@@ -2,49 +2,52 @@
 	"sections": [
 		{
 			"src": "/sections/content/intro/intro.html",
-			"img": "img/spider.svg",
-			"title": "Get Started",
-			"description": "This is an introduction to the page"
+			"img": "barelogo.png",
+			"title": "Panianka",
+			"description": "Для тих, хто створює казку — або носить її"
 		},
 		{
 			"src": "/sections/content/hero/hero.html",
-			"title": "Welcome to Our Platform",
-			"description": "We help you build better websites",
-			"img": "img/spider.svg",
-			"imgs": ["img/spider.svg", "img/spider.svg"]
+			"title": "Бутик весільних суконь, тканин і фурнітури — 
+простір натхнення та стилю",
+			"description": "Вишукані весільні сукні, які підкреслюють найважливіші моменти життя.
+			Колекції тканин, мережива, декоративної фурнітури — для створення унікального одягу, аксесуарів та авторських проєктів.
+			Ідеальне місце для наречених, дизайнерів, майстрів пошиття та всіх, хто працює з естетикою і стилем.",
+			"img": "block2img.png",
+			"imgs": []
 		},
 		{
 			"src": "/sections/horizontal-visual.html",
 			"img": "img/spider.svg",
-			"title": "Main title for gallery",
+			"title": "Наші тканини",
 			"imgs": [
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg"
+				"fabric1.png",
+				"fabric2.png",
+				"fabric3.png",
+				"fabric4.png",
+				"fabric5.png",
+				"",
+				""
 			]
 		},
 		{
 			"src": "/sections/vertical-visual.html",
 			"img": "img/spider.svg",
-			"title": "Title for visual block",
+			"title": "Наші сукні",
 			"imgs": [
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg",
-				"img/spider.svg"
+				"wedDress1.png",
+				"wedDress2.png",
+				"wedDress3.png",
+				"",
+				"",
+				"",
+				""
 			],
-			"subtitle": "text for instagram link",
+			"subtitle": "Для детального ознайомлення з асортиментом — перегляньте Instagram",
 			"socials": [
 				{
 					"img": "img/spider.svg",
-					"href": "https://www.instagram.com/potiercake/"
+					"href": "https://www.instagram.com/panianka_kp/"
 				}
 			]
 		},
