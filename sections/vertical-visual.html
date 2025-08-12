@@ -1,21 +1,13 @@
 <div class="vertical">
 	<div class="vertical__title">{{{section.title}}}</div>
 	<div class="vertical-wrapper">
+		{% for img in section.imgs %}
 		<div class="vertical__item">
 			<div class="vertical__img">
-				<img src="{{{section.imgs[0]}}}" alt="" />
+				<img src="{{{img}}}" alt="" />
 			</div>
 		</div>
-		<div class="vertical__item">
-			<div class="vertical__img">
-				<img src="{{{section.imgs[0]}}}" alt="" />
-			</div>
-		</div>
-		<div class="vertical__item">
-			<div class="vertical__img">
-				<img src="{{{section.imgs[0]}}}" alt="" />
-			</div>
-		</div>
+		{% endfor %}
 	</div>
 	{% for social in section.socials %}
 	<a href="{{{social.href}}}" class="vertical-instagram">

@@ -71,4 +71,25 @@
 	.intro__description {
 		font-size: calc(var(--font-size) * 0.875);
 	}
+	.intro__title {
+    	font-size: 60px;
+	}
+	.hero__text {
+		padding-right: 0;
+	}
+	.hero__title {
+    	font-size: 24px;
+	}
+	.hero__imgs {
+		flex: 0 0 100%;
+		max-width: 370px;
+	}
+	.gallery-wrapper {
+        padding: 10px;
+    }
+	.gallery__item {
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 0 10px;
+    }
 }

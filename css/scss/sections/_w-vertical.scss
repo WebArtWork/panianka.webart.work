@@ -24,6 +24,9 @@
 		img {
 			width: 100%;
 			border-radius: var(--b-radius);
+			height: 380px;
+			object-fit: cover;
+			object-position: top;
 		}
 	}
 	&-instagram {
