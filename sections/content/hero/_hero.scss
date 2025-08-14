@@ -80,7 +80,7 @@
 	.hero__imgs {
 		flex: 0 0 100%;
 		max-width: calc(290px * var(--padding-scale));
-		width: 100%;
+
 	}
 	.hero__text {
 		padding-right: calc(20px * var(--padding-scale));
@@ -90,7 +90,11 @@
 		font-size: 24px;
 	}
 	.hero__imgs {
-		width: 100%;
+		flex: 0 0 100%;
+		max-width: 370px;
+		img{
+			width: 100%;
+		}
 	}
 }
 
