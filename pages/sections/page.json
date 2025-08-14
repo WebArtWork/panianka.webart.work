@@ -173,8 +173,9 @@
 			"map": "img/spider.svg",
 			"iloc": "img/spider.svg",
 			"iphone": "img/spider.svg",
-			"title": "Get in touch block",
-			"subtitle": "We are here",
+			"title": "Наші контакти",
+			"subtitle": "Ми розташовані тут:",
+			"text": "Tik tok",
 			"socials": [
 				{
 					"img": "img/spider.svg",
@@ -182,7 +183,8 @@
 				}
 			],
 			"phone": "+380971862487",
-			"address": "Drai-Khmary St, 50, Kam'yanets'-Podil's'kyi, Khmelnytskyi Oblast, 32313"
+			"address": "Drai-Khmary St, 50, Kam'yanets'-Podil's'kyi, Khmelnytskyi Oblast, 32313",
+			"text": "Drai-Khmary St, 50, Kam'yanets'-Podil's'kyi, Khmelnytskyi Oblast, 32313"
 		},
 		{
 			"src": "/sections/business/team/team.html",

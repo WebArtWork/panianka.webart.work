@@ -12,7 +12,7 @@
 
 	&__text {
 		flex: 1 0;
-		padding-right: calc(230px * var(--padding-scale));
+		padding-right: calc(80px * var(--padding-scale));
 	}
 
 	&__title {
@@ -88,6 +88,9 @@
 	}
 	.hero__title {
 		font-size: 24px;
+	}
+	.hero__imgs {
+		width: 100%;
 	}
 }
 

@@ -2,15 +2,14 @@
 	<div class="in-touch-wrapper">
 		<div class="in-touch-text">
 			<div class="in-touch__title">
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
-				aliquid dolo
+				{{{section.title}}}
 			</div>
 			{% for social in section.socials %}
 			<a href="{{{social.href}}}" class="in-touch-socials">
 				<div class="in-touch-socials__icon">
-					<img src="{{{social.img}}}" alt="" />
+					<img src="{{{social.tiktok}}}" alt="" />
 				</div>
-				<div class="in-touch-socials__text">Instagram link</div>
+				<div class="in-touch-socials__text">{{{social.text}}}</div>
 			</a>
 			{% for social in section.socials %}
 			<div class="in-touch__subtitle">{{{section.subtitle}}}</div>
