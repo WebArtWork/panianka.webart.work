@@ -279,10 +279,15 @@ ul {
 	@media (max-width: 768px) {
 		padding: 10px;
 	}
+	&__logo{
+		max-width: 220px;
+		width: 100%;
+	}
 	&__text {
 		margin: 0;
 		font-size: 0.9em;
 		text-align: center;
+		padding-top: 20px;
 		span {
 			display: block;
 		}
@@ -293,6 +298,7 @@ ul {
 	&-wrap {
 		display: flex;
 		flex-flow: row wrap;
+		justify-content: center;
 		padding-top: 10px;
 		@media (max-width: 768px) {
 			justify-content: center;
@@ -306,6 +312,10 @@ ul {
 		text-align: center;
 		&--center {
 			align-content: center;
+			display: flex;
+			flex-flow: row wrap;
+			justify-content: center;
+			padding-top: 10px;
 		}
 		&--end {
 			align-content: center;
@@ -323,6 +333,10 @@ ul {
 		color: var(--c-primary-hover);
 	}
 	&__link {
+		&-icon{
+			max-width: 50px;
+			margin: 0 10px;
+		}
 		&:hover {
 			color: var(--c-primary-hover);
 			text-decoration: underline;
